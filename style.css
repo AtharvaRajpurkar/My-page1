@@ -1,0 +1,8 @@
+
+h1{color: blue;}
+          h2{color: red;text-align: center;}
+          .header{display: flex;background-color: aqua;justify-content: space-between;border :solid;border-radius: 5px;}
+    .projects{display: flex;justify-content:space-around;flex-wrap: wrap;border: solid;}
+    .project1{border:double;align-content: center;}
+
+    
